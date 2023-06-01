@@ -1,1 +1,15 @@
-![cody's logo](https://github.com/alphaotuken/codys-portfolio/assets/100890340/1f43c55f-48d3-41a6-82d3-e64cebe95ca1)
+# Cody's Portfolio
+### BY TALO
+
+- Sleek & Easy to Track UI
+- Mutliple Pages with Contact Form
+- Full Responsive on all Devices
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project is ** Free to use **
+
