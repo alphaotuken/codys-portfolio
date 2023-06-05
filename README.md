@@ -1,4 +1,4 @@
-# Talo's Portfolio
+# Cody's Portfolio
 ### BY TALO
 
 - Sleek & Easy to Track UI
